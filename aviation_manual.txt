@@ -1,0 +1,24 @@
+
+AIRCRAFT MAINTENANCE MANUAL - A380
+Section 5.3 - Landing Gear Inspection
+
+Crack Limit Policy:
+Any crack found on main landing gear components must not exceed 0.5mm in depth.
+Cracks exceeding this limit require immediate grounding of the aircraft and 
+replacement of the affected component before next flight.
+
+Corrosion Standards:
+Surface corrosion up to 0.2mm depth is acceptable after treatment.
+Corrosion exceeding 0.3mm requires engineering review and possible replacement.
+All corrosion must be treated within 72 hours of discovery.
+
+Inspection Intervals:
+- Daily walkaround: Visual inspection of all gear doors
+- A-Check (500 hours): Detailed inspection of hinge brackets
+- C-Check (6000 hours): Full disassembly and NDT inspection
+- D-Check (25000 hours): Complete overhaul of all components
+
+Hydraulic Pressure:
+Normal operating pressure: 5000 PSI
+Minimum acceptable: 4800 PSI
+Any reading below 4800 PSI requires immediate maintenance action.
