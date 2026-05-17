@@ -17,7 +17,7 @@ st.caption("Ask any question about your maintenance manual")
 @st.cache_resource
 def load_models():
     embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
-    groq_client = Groq(api_key="gsk_your_actual_key_here")
+    groq_client = Groq(api_key=st.secrets.get("GROQ_API_KEY"))
     return embedding_model, groq_client
 
 @st.cache_resource
